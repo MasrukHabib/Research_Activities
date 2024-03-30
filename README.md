@@ -24,6 +24,7 @@ We encourage contributions from members to enrich the repository and foster a vi
 
 Join the conversation, ask questions, and collaborate with fellow members to expand your knowledge and skills in research activities. Together, we can create a dynamic and supportive environment for learning and discovery.
 
-Happy researching!
 
-*Note: Please adhere to the code of conduct and guidelines outlined in the repository to ensure a positive and inclusive community experience.*
+Happy researching! 😁
+
+
