@@ -12,6 +12,5 @@ Welcome to the Research Activities Club repository! Here, we aim to facilitate l
 
 ## Contact
 
-For questions or feedback regarding this repository, please contact [Masruk Habib](mailto:masrukjim@gmail.com).
-
+For questions or feedback regarding this repository, please contact [Masruk Habib ](https://www.linkedin.com/in/masruk-habib) 
 
