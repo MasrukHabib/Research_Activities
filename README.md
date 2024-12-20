@@ -10,5 +10,6 @@ Welcome to the Research Activities Club repository! Here, we aim to facilitate l
 
 3. **Research Technique Demos**: Engage in hands-on demonstrations of various research techniques. Through interactive sessions and tutorials, gain insights into applying theoretical knowledge to real-world scenarios.
 
+
 ## Contact
 For questions or feedback regarding this repository, please contact [Masruk Habib ](https://www.linkedin.com/in/masruk-habib) 
